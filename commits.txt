@@ -1,0 +1,41 @@
+commit 30eff653782f88d5b62aeb8e57d00d6e7223f3b2
+Author: desarrollo-3 <juan.hernandez@gygsoftware.com>
+Date:   Mon Dec 19 10:53:19 2016 -0500
+
+    se cambio el fondo del div
+
+commit 6deb35702818e6e3a747cbf36ecd1ffe29e76d22
+Author: desarrollo-3 <juan.hernandez@gygsoftware.com>
+Date:   Mon Dec 19 10:43:14 2016 -0500
+
+    se centro el div y el texto dentro del div
+
+commit cc165ea00d03c8f128d9dc47007e53932f752f57
+Author: desarrollo-3 <juan.hernandez@gygsoftware.com>
+Date:   Mon Dec 19 10:39:42 2016 -0500
+
+    se agrego estilos al div
+
+commit 8f87337445292c4866daf4c1ab3c441ef9730494
+Author: desarrollo-3 <juan.hernandez@gygsoftware.com>
+Date:   Mon Dec 19 10:38:12 2016 -0500
+
+    se agrego div a la pagina
+
+commit 893e2347a8920fdadde279943a6ddf46bd81e495
+Author: desarrollo-3 <juan.hernandez@gygsoftware.com>
+Date:   Mon Dec 19 10:36:54 2016 -0500
+
+    se establecio el lenguaje de la pagina
+
+commit a2a1ddb838002b934abca225419e8a136560cccc
+Author: desarrollo-3 <juan.hernandez@gygsoftware.com>
+Date:   Mon Dec 19 10:36:09 2016 -0500
+
+    se agrego la estructura del hmtl base
+
+commit 716173d15c4cb4a67c4dc12f4482310e7f33f5dd
+Author: desarrollo-3 <juan.hernandez@gygsoftware.com>
+Date:   Mon Dec 19 10:34:13 2016 -0500
+
+    se craaron arhcivos index y estilos
