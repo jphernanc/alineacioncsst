@@ -8,7 +8,7 @@ header{
 	margin: 100px auto;
 	width: 1200px;
 	height: 230px;
-	background-color: red;
+	background-color: rgba(255,0,0,.5);
 
 }
 
@@ -16,29 +16,30 @@ div.contenedor{
 
 	width: 200px;
 	height: 230px;
+	text-align: center;
 	float: left;
 }
 
-div#uno{
-	background-color: rgba(208,101,3);
+#uno{
+	background-color: rgba(208,101,3,1);	
 }
 
 div#dos{
-	background-color: rgba(233,147,26);
+	background-color: rgba(233,147,26,1);
 }
 
 div#tres{
-	background-color: rgba(22,145,190);
+	background-color: rgba(22,145,190,1);
 }
 
 div#cuatro{
-	background-color: rgba(22,107,162);
+	background-color: rgba(22,107,162,1);
 }
 
 div#cinco{
-	background-color: rgba(27,54,71);
+	background-color: rgba(27,54,71,1);
 }
 
 div#seis{
-	background-color: rgba(21,40,54);
+	background-color: rgba(21,40,54,1);
 }
