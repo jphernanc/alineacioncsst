@@ -62,9 +62,16 @@ p.texto{
 	text-align: center;
 	padding-top: 10px;
 	opacity: .6;
+	transition: padding-top .5s;
 }
 
 div.contenedor:hover{
 
 	height: 250px;
+}
+
+div.contenedor:hover p.texto{
+
+	padding-top: 30px;
+
 }
