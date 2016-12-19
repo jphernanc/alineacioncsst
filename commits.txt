@@ -1,0 +1,59 @@
+commit 265786ebd605c290f5a1572145d38ac8483ad938
+Author: desarrollo-3 <juan.hernandez@gygsoftware.com>
+Date:   Mon Dec 19 15:34:46 2016 -0500
+
+    se agregar los divs al proyecto
+
+commit a1a4a16e9ae286d8b5b57259f993d162906b9b3a
+Author: desarrollo-3 <juan.hernandez@gygsoftware.com>
+Date:   Mon Dec 19 15:32:35 2016 -0500
+
+    se agregaron algunos estilos al header
+
+commit 76e6755c7003bc5172267d5693306b99ddc714c2
+Author: desarrollo-3 <juan.hernandez@gygsoftware.com>
+Date:   Mon Dec 19 15:28:47 2016 -0500
+
+    se agrego directorio de imagenes
+
+commit f14c52c1f9ebf56d75f06456317071c60e87c152
+Author: desarrollo-3 <juan.hernandez@gygsoftware.com>
+Date:   Mon Dec 19 10:45:42 2016 -0500
+
+    se modifico el color de fondo del div
+
+commit 6deb35702818e6e3a747cbf36ecd1ffe29e76d22
+Author: desarrollo-3 <juan.hernandez@gygsoftware.com>
+Date:   Mon Dec 19 10:43:14 2016 -0500
+
+    se centro el div y el texto dentro del div
+
+commit cc165ea00d03c8f128d9dc47007e53932f752f57
+Author: desarrollo-3 <juan.hernandez@gygsoftware.com>
+Date:   Mon Dec 19 10:39:42 2016 -0500
+
+    se agrego estilos al div
+
+commit 8f87337445292c4866daf4c1ab3c441ef9730494
+Author: desarrollo-3 <juan.hernandez@gygsoftware.com>
+Date:   Mon Dec 19 10:38:12 2016 -0500
+
+    se agrego div a la pagina
+
+commit 893e2347a8920fdadde279943a6ddf46bd81e495
+Author: desarrollo-3 <juan.hernandez@gygsoftware.com>
+Date:   Mon Dec 19 10:36:54 2016 -0500
+
+    se establecio el lenguaje de la pagina
+
+commit a2a1ddb838002b934abca225419e8a136560cccc
+Author: desarrollo-3 <juan.hernandez@gygsoftware.com>
+Date:   Mon Dec 19 10:36:09 2016 -0500
+
+    se agrego la estructura del hmtl base
+
+commit 716173d15c4cb4a67c4dc12f4482310e7f33f5dd
+Author: desarrollo-3 <juan.hernandez@gygsoftware.com>
+Date:   Mon Dec 19 10:34:13 2016 -0500
+
+    se craaron arhcivos index y estilos
