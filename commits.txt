@@ -1,8 +1,34 @@
+<<<<<<< HEAD
 commit 30eff653782f88d5b62aeb8e57d00d6e7223f3b2
 Author: desarrollo-3 <juan.hernandez@gygsoftware.com>
 Date:   Mon Dec 19 10:53:19 2016 -0500
 
     se cambio el fondo del div
+=======
+commit 265786ebd605c290f5a1572145d38ac8483ad938
+Author: desarrollo-3 <juan.hernandez@gygsoftware.com>
+Date:   Mon Dec 19 15:34:46 2016 -0500
+
+    se agregar los divs al proyecto
+
+commit a1a4a16e9ae286d8b5b57259f993d162906b9b3a
+Author: desarrollo-3 <juan.hernandez@gygsoftware.com>
+Date:   Mon Dec 19 15:32:35 2016 -0500
+
+    se agregaron algunos estilos al header
+
+commit 76e6755c7003bc5172267d5693306b99ddc714c2
+Author: desarrollo-3 <juan.hernandez@gygsoftware.com>
+Date:   Mon Dec 19 15:28:47 2016 -0500
+
+    se agrego directorio de imagenes
+
+commit f14c52c1f9ebf56d75f06456317071c60e87c152
+Author: desarrollo-3 <juan.hernandez@gygsoftware.com>
+Date:   Mon Dec 19 10:45:42 2016 -0500
+
+    se modifico el color de fondo del div
+>>>>>>> master
 
 commit 6deb35702818e6e3a747cbf36ecd1ffe29e76d22
 Author: desarrollo-3 <juan.hernandez@gygsoftware.com>
