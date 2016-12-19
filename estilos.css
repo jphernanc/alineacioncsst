@@ -1,5 +1,4 @@
 *{
-<<<<<<< HEAD
 	margin: 0px;
 	padding: 0px;	
 }
@@ -44,24 +43,12 @@ div#cinco{
 div#seis{
 	background-color: rgba(21,40,54,1);
 }
-=======
-	margin:0px;
-	padding: 0px;
-	font-family: verdana;
+
+
+img.icon{
+	display: block;
+	margin: 50px auto;
+	width: 40px;
+	padding: 20px;
+	border-radius: 50%;
 }
-
-header{
-
-	width: 1200px;
-	height: 230px;
-	background-color: red;
-	margin: 100px auto;
-
-}
-
-div.contenedor{
-
-	
-}
-
->>>>>>> master
