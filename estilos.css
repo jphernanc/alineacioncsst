@@ -58,5 +58,7 @@ img.icon{
 p.texto{
 	font-size: 1.2em;
 	color: white;
-	text-align: center;;
+	text-align: center;
+	padding-top: 10px;
+	opacity: .6;
 }
